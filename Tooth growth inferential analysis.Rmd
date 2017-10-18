@@ -2,7 +2,7 @@
 title: "Effect of Vitamin C derivates on Tooth Growth in Guinea Pigs"
 author: "Julián Ríos "
 date: "October 18th, 2017"
-output: html_document
+output: pdf_document
 ---
 
 ### Overview
