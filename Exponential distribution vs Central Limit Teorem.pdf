@@ -3,7 +3,7 @@ title: Investigation of the exponential distribution in R and compararing it wit
   Limit Theorem
 author: "Julián Ríos"
 date: "October 18, 2017"
-output: html_document
+output: pdf_document
 ---
 
 ## Overview
